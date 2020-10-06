@@ -1,0 +1,8 @@
+
+UIシーンを作成
+Canvasを1920x1080に設定
+
+
+Cinemachineを追加
+
+
