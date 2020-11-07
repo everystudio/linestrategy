@@ -8,6 +8,9 @@ public class TenSecond : MonoBehaviour
     public Text m_txtTimer;
     public float m_fStartTime;
 
+    [SerializeField]
+    private bool IsJump = false;
+
     void Start()
     {
         m_fStartTime = Time.time;
